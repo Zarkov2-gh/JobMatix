@@ -114,11 +114,12 @@ JobMatix POS is fully compatible and integrated with JobMatix JobTracking. The J
 ## Migration from Retail Manager to JobMatix POS
 
 How to migrate from Retail Manager to JobMatixPOS
+
 You can download "Migrating_to_JobMatixPOS_6201.doc" from this repo..
 
 = = = = = = = =
 
-Updated 19-July-2021 7:52 pm AEDT..
+Updated 27-July-2021 6:56 pm AEST..
 
 Copyright © grhaas@outlook.com 2014, 2015, 2016, 2017, 2018, 2019, 2020,2021..
 
